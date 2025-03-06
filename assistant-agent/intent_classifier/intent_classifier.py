@@ -1,15 +1,17 @@
+import json
+
 import spacy
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 
-
+#Ability to parse intent quickly once trained - re-training option added as well
 class IntentClassifier:
     def __init__(self):
         self.model = None
         self.vectorizer = None
         self.nlp = spacy.load("en_core_web_sm")  # Load spaCy NLP model
-        self.intents = ["greeting", "time_query", "exit", "log_query", "task_query"]
+        self.intents = ["task_creation", "task_removal", "summarization", "general_talk"]
 
     def preprocess_text(self, text):
         """Lemmatize text and remove stopwords"""
@@ -43,8 +45,9 @@ class IntentClassifier:
         doc = self.nlp(text.lower())
         return " ".join([token.lemma_ for token in doc if not token.is_stop])
 
-    def train_model(self, dataset):
+    def train_model(self, file_name):
         """Train SVM intent classifier"""
+        dataset = json.load(open(file_name))
         texts = [self.preprocess_text(sample["text"]) for sample in dataset]
         labels = [sample["intent"] for sample in dataset]
 
@@ -88,20 +91,7 @@ class IntentClassifier:
 
 # Train the model
 if __name__ == "__main__":
-    dataset = [
-        {"text": "Hello", "intent": "greeting"},
-        {"text": "Hey there!", "intent": "greeting"},
-        {"text": "What time is it?", "intent": "time_query"},
-        {"text": "Tell me the current time", "intent": "time_query"},
-        {"text": "Exit the program", "intent": "exit"},
-        {"text": "Quit", "intent": "exit"},
-        {"text": "Log this as a note", "intent": "log_query"},
-        {"text": "Remember this for later", "intent": "log_query"},
-        {"text": "Set a reminder for 6 PM", "intent": "task_query"},
-        {"text": "Schedule an event", "intent": "task_query"},
-    ]
-
     classifier = IntentClassifier()
-    # classifier.train_model(dataset)
+    # classifier.train_model("data_set.json")
     classifier.load_model()
-    print("Intent : ", classifier.predict_intent("set a reminder"))
+    print("Intent : ", classifier.predict_intent("whats the india vs pakistan score"))

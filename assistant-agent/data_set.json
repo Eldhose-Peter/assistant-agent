@@ -1,0 +1,4002 @@
+[
+    {
+        "text": "Schedule an event: assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Add a new task: movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this exercise for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to plants",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about books",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of AI?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain games in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about meeting at 10 AM",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of hobbies?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I groceries?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to quantum physics",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good music to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'books' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good books to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in hobbies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this career for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: quantum physics",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about nutrition",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about hobbies",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain nutrition in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you add 'history' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How do I meeting at 10 AM?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: John",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of quantum physics",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to AI",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about meeting at 10 AM",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of report",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this career for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you provide a brief summary of project updates?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain quantum physics in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I meeting at 10 AM?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How do I soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last John?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this relationships for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'soccer' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about plants",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good relationships to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of travel?",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to report",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about relationships",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: meeting at 10 AM",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I plants?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Erase my scheduled soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I games?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last productivity?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'health' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good education to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about exercise",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about groceries",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in health?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this relationships for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of technology?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about project updates",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "Drop the reminder to space travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you suggest a good productivity to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain assignment in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Summarize this nutrition for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of project updates?",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in plants?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain weather in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this relationships for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remove the task about books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'meeting at 10 AM' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of education",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about weather",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'plants' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of quantum physics?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of plants?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Drop the reminder to finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of games",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain technology in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain soccer in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to John",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last groceries?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite books?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How do I weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'John' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of hobbies?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good space travel to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Set a reminder for history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about project updates",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain AI in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite career?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of history?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to meeting at 10 AM",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain productivity in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to hobbies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about games",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite relationships?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of hobbies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain health in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this games for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about productivity",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of project updates?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in productivity?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this quantum physics for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good finance to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of space travel?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good groceries to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last assignment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good AI to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about history",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I relationships?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'career' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about space travel",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Erase my scheduled exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of quantum physics",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of meeting at 10 AM",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you provide a brief summary of travel?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in education?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about productivity",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about John",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'movies' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Add a new task: AI",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for AI",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain education in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to John",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this weather for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite nutrition?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this technology for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Drop the reminder to AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled space travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of movies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about education",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a task for plants",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'movies' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remind me to career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this space travel for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of movies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'nutrition' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a task for health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about report",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'dentist appointment' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I music?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of nutrition?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: John",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of music",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remind me to games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this groceries for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good John to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'career' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Add a new task: productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite books?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in books?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about assignment",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of report?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain assignment in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remind me to nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'dentist appointment' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last health?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Create a task to history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I relationships?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me an interesting fact about exercise",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about report",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'assignment' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to AI",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this health for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain soccer in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite nutrition?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about quantum physics",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How do I dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain space travel in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about dentist appointment",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about education",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in meeting at 10 AM?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to hobbies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of music",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite technology?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain nutrition in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'travel' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain weather in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'exercise' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about space travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good dentist appointment to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Summarize this technology for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in assignment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Summarize this space travel for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: quantum physics",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite movies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'dentist appointment' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to report",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remind me to education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good music to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you suggest a good games to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to space travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I books?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'John' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain education in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you add 'travel' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I productivity?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of education",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I career?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last hobbies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last John?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about relationships",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of hobbies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about hobbies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain groceries in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How do I weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite music?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of assignment?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain health in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Set a reminder for soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for groceries",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about career",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite health?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'education' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about travel",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last games?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of education",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a task for history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Summarize this groceries for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about career",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain project updates in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this soccer for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'weather' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about relationships",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about report",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of report",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'assignment' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in exercise?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'career' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for games",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain project updates in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Set a reminder for career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of relationships",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for report",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about history",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of books?",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good technology to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'plants' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of quantum physics",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite health?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good quantum physics to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about hobbies",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of games",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about assignment",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a task for technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for games",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: meeting at 10 AM",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of career?",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "What's your favorite productivity?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remove the task about hobbies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Create a task to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good groceries to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Create a task to career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about groceries",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in music?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite movies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in exercise?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite John?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remove the task about music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about technology",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of hobbies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remind me to history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you add 'groceries' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about dentist appointment",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of education?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Summarize this history for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about technology",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Summarize this finance for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of meeting at 10 AM",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite groceries?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this plants for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'relationships' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I hobbies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Create a task to meeting at 10 AM",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of weather",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite nutrition?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about books",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of plants",
+        "intent": "summarization"
+    },
+    {
+        "text": "Drop the reminder to history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain dentist appointment in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in productivity?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Create a task to travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about movies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you provide a brief summary of nutrition?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Drop the reminder to health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I groceries?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Create a task to weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of games",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of productivity",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you suggest a good music to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "What's your favorite quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain productivity in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you provide a brief summary of space travel?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to history",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of meeting at 10 AM",
+        "intent": "summarization"
+    },
+    {
+        "text": "Give me a short version of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remove the task about nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of report",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about soccer",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain groceries in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of books",
+        "intent": "summarization"
+    },
+    {
+        "text": "How do I finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last career?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'movies' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How's the weather in AI?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of books",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in exercise?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a concise summary of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: groceries",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How's the weather in plants?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remove the task about relationships",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remind me to exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain meeting at 10 AM in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Set a reminder for music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Delete the task for quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'technology' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of report",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Create a task to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of education",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to games",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about education",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain productivity in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last nutrition?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of quantum physics",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about quantum physics",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in nutrition?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain assignment in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of assignment?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about health",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Set a reminder for history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of history?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about music",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Give me a short version of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a concise summary of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain education in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I meeting at 10 AM?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of project updates",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How's the weather in games?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain exercise in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'relationships' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this books for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Generate a quick overview of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of games?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of hobbies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good project updates to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to history",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of music",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about movies",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of space travel",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of groceries",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of AI?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remind me to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about music",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain the main points of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite quantum physics?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good health to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'travel' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Add a new task: soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good quantum physics to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this finance for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me an interesting fact about plants",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you suggest a good assignment to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you suggest a good project updates to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for relationships",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How's the weather in meeting at 10 AM?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last space travel?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'games' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of movies",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in movies?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of quantum physics?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about health",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me an interesting fact about soccer",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain travel in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last history?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain movies in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to productivity",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me a joke about report",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to games",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about career",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain history in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remind me to books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about plants",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last soccer?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Summarize this space travel for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a task for space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me a joke about project updates",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of books",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain quantum physics in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain history in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Make a concise summary of books",
+        "intent": "summarization"
+    },
+    {
+        "text": "Remove the task about health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of report",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you provide a brief summary of games?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to relationships",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Erase my scheduled John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for plants",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to assignment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Create a task to space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to groceries",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remind me to nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about meeting at 10 AM",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this books for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Drop the reminder to travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remind me to technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about movies",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about technology",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Remind me to groceries",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How's the weather in books?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about technology",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Make a task for finance",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to soccer",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Remove the task about groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you add 'career' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Who won the last dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about project updates",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: relationships",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for assignment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need to remember to education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of career",
+        "intent": "summarization"
+    },
+    {
+        "text": "Who won the last relationships?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for space travel",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to hobbies",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last finance?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I technology?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about health",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for report",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a task for dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last project updates?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "How's the weather in exercise?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Schedule an event: weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I groceries?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last project updates?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Delete the task for groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: plants",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Add a new task: technology",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Generate a quick overview of soccer",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of finance",
+        "intent": "summarization"
+    },
+    {
+        "text": "Explain the main points of quantum physics",
+        "intent": "summarization"
+    },
+    {
+        "text": "Create a task to project updates",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Create a task to games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for games",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Erase my scheduled exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need a bullet-point summary of exercise",
+        "intent": "summarization"
+    },
+    {
+        "text": "How's the weather in dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Create a task to health",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remind me to weather",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Explain the main points of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Make a task for music",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Forget about the task to quantum physics",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Generate a quick overview of assignment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled AI",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I report?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Who won the last weather?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need to remember to dentist appointment",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of AI",
+        "intent": "summarization"
+    },
+    {
+        "text": "Erase my scheduled technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for plants",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain exercise in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: books",
+        "intent": "task_creation"
+    },
+    {
+        "text": "How do I career?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about meeting at 10 AM",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about report",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Add a new task: career",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Summarize this music for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Schedule an event: travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Cancel my reminder for finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Give me a short version of hobbies",
+        "intent": "summarization"
+    },
+    {
+        "text": "Tell me a joke about AI",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Generate a quick overview of technology",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need a bullet-point summary of dentist appointment",
+        "intent": "summarization"
+    },
+    {
+        "text": "Schedule an event: space travel",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Set a reminder for nutrition",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you suggest a good movies to read?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Set a reminder for exercise",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Schedule an event: movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about AI",
+        "intent": "general_talk"
+    },
+    {
+        "text": "I need a bullet-point summary of nutrition",
+        "intent": "summarization"
+    },
+    {
+        "text": "Add a new task: hobbies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Can you provide a brief summary of education?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Can you add 'games' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Take out the entry about project updates",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Take out the entry about John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Delete the task for John",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Can you add 'productivity' to my task list?",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Drop the reminder to exercise",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of health",
+        "intent": "summarization"
+    },
+    {
+        "text": "I need to remember to soccer",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Tell me an interesting fact about space travel",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me an interesting fact about plants",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me an interesting fact about travel",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Explain health in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Forget about the task to music",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about meeting at 10 AM",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Tell me a joke about plants",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Drop the reminder to productivity",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Make a concise summary of books",
+        "intent": "summarization"
+    },
+    {
+        "text": "Delete the task for games",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Cancel my reminder for groceries",
+        "intent": "task_removal"
+    },
+    {
+        "text": "I need to remember to education",
+        "intent": "task_creation"
+    },
+    {
+        "text": "I need a bullet-point summary of John",
+        "intent": "summarization"
+    },
+    {
+        "text": "Set a reminder for finance",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Remove the task about technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain the main points of history",
+        "intent": "summarization"
+    },
+    {
+        "text": "Summarize this project updates for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Take out the entry about nutrition",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Forget about the task to books",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Who won the last history?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about dentist appointment",
+        "intent": "task_removal"
+    },
+    {
+        "text": "How do I dentist appointment?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Cancel my reminder for career",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Tell me an interesting fact about soccer",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you provide a brief summary of exercise?",
+        "intent": "summarization"
+    },
+    {
+        "text": "Forget about the task to technology",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Explain assignment in simple terms",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Summarize this relationships for me",
+        "intent": "summarization"
+    },
+    {
+        "text": "Cancel my reminder for finance",
+        "intent": "task_removal"
+    },
+    {
+        "text": "What's your favorite career?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Take out the entry about weather",
+        "intent": "task_removal"
+    },
+    {
+        "text": "Add a new task: movies",
+        "intent": "task_creation"
+    },
+    {
+        "text": "Give me a short version of movies",
+        "intent": "summarization"
+    },
+    {
+        "text": "What's your favorite education?",
+        "intent": "general_talk"
+    },
+    {
+        "text": "Can you add 'John' to my task list?",
+        "intent": "task_creation"
+    }
+]

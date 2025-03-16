@@ -1,0 +1,45 @@
+{
+    "queries": [
+      {
+        "user_input": "List all customers.",
+        "sql_query": "SELECT * FROM Customer;"
+      },
+      {
+        "user_input": "Find all orders placed by customer with ID 1.",
+        "sql_query": "SELECT * FROM SalesOrder WHERE CustomerID = 1;"
+      },
+      {
+        "user_input": "List all products currently in stock.",
+        "sql_query": "SELECT * FROM Product WHERE StockQuantity > 0;"
+      },
+      {
+        "user_input": "Find the supplier for product with ID 10.",
+        "sql_query": "SELECT s.CompanyName FROM Supplier s JOIN Product p ON s.SupplierID = p.SupplierID WHERE p.ProductID = 10;"
+      },
+      {
+        "user_input": "List the sales orders that have not been shipped yet.",
+        "sql_query": "SELECT * FROM SalesOrder WHERE Status = 'Pending';"
+      },
+      {
+        "user_input": "How many employees work in the sales department?",
+        "sql_query": "SELECT COUNT(*) FROM Employee WHERE Position LIKE '%sales%';"
+      },
+      {
+        "user_input": "List the top 5 most sold products.",
+        "sql_query": "SELECT ProductID, SUM(Quantity) AS TotalQuantity FROM LineItem GROUP BY ProductID ORDER BY TotalQuantity DESC LIMIT 5;"
+      },
+      {
+        "user_input": "Find the total sales amount for orders completed this year.",
+        "sql_query": "SELECT SUM(TotalPrice) FROM SalesOrder WHERE YEAR(OrderDate) = YEAR(CURDATE()) AND Status = 'Completed';"
+      },
+      {
+        "user_input": "List all suppliers from 'New York'.",
+        "sql_query": "SELECT * FROM Supplier WHERE Address LIKE '%New York%';"
+      },
+      {
+        "user_input": "How many products are low on stock (below reorder level)?",
+        "sql_query": "SELECT COUNT(*) FROM Product WHERE StockQuantity < ReorderLevel;"
+      }
+    ]
+  }
+  

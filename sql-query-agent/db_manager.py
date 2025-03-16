@@ -6,6 +6,40 @@ import sys
 db_path = 'data_set/sales_order.sqlite'
 query_file = 'data_set/previous_queries.json'
 
+def execute_query(query):
+    """
+    Execute a SQL query and return the results.
+    
+    Args:
+        query (str): SQL query to execute
+        
+    Returns:
+        list: A list of tuples containing the query results
+    """
+    if not os.path.exists(db_path):
+        return "Error: Database file not found."
+    
+    try:
+        # Connect to the database
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        
+        # Execute the query
+        cursor.execute(query)
+        
+        # Get the results
+        results = cursor.fetchall()
+        
+        # Close the connection
+        conn.close()
+        
+        return results
+        
+    except sqlite3.Error as e:
+        return f"SQLite error: {e}"
+    except Exception as e:
+        return f"Error: {e}"
+
 def read_previous_queries():
     """
     Read a JSON file containing queries and convert to the specified text format.

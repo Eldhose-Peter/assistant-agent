@@ -1,4 +1,4 @@
-from db_manager import read_db_schema, read_previous_queries
+from db_manager import read_db_schema, read_previous_queries, execute_query
 import subprocess
 
 class AssistantAgent:
@@ -56,4 +56,7 @@ if __name__ == "__main__":
             break
 
         response = agent.handle_input(user_input)
-        print(response)
+        print("Agent response:", response)
+
+        query_response = execute_query(response)
+        print("Query response:", query_response)
